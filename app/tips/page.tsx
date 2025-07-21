@@ -107,7 +107,7 @@ export default function TipsPage() {
         {/* Weight Gain Tips */}
         <section className="mb-12">
           <h2 className="text-2xl font-bold text-gray-800 dark:text-gray-200 mb-6">
-            💡 Top Tips for Healthy Weight Gain
+             Top Tips for Healthy Weight Gain
           </h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {weightGainTips.map((tip, index) => (

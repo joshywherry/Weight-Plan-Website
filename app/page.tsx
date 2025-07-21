@@ -52,7 +52,7 @@ export default function HomePage() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/meal-plan">
               <Button size="lg" className="bg-green-600 hover:bg-green-700 text-white">
-                View 7-Day Meal Plan 📅
+                View 7-Day Meal Plan 
               </Button>
             </Link>
             <Link href="/tips">
@@ -61,7 +61,7 @@ export default function HomePage() {
                 variant="outline"
                 className="border-green-600 text-green-600 hover:bg-green-50 bg-transparent"
               >
-                Get Weight Gain Tips 💡
+                Get Weight Gain Tips 
               </Button>
             </Link>
           </div>
@@ -76,7 +76,7 @@ export default function HomePage() {
           </h2>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="text-center p-6 rounded-lg bg-green-50 dark:bg-green-900">
-              <div className="text-4xl mb-4">🇰🇪</div>
+              <div className="text-4xl mb-4">🍚</div>
               <h3 className="text-xl font-semibold mb-3 text-green-800 dark:text-green-200">Local Foods</h3>
               <p className="text-gray-600 dark:text-gray-300">
                 Uses common foods like ugali, sukuma wiki, githeri, and nyama choma that are easily available.
