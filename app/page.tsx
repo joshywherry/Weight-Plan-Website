@@ -14,7 +14,7 @@ export default function HomePage() {
           <div className="flex justify-between items-center py-4">
             {/* Logo with Image */}
             <Link href="/" className="flex items-center space-x-2">
-              <Image src="/mainicon.png" alt="JayFit Logo" width={40} height={40} />
+              
               <span className="text-xl font-bold">JayFit</span>
             </Link>
 
